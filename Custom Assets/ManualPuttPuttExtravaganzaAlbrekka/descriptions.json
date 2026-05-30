@@ -1,0 +1,350 @@
+[
+    {
+        "Name": "Call for a Parade",
+        "Description": "Oh there's a parade soon, how nice!"
+    },
+    {
+        "Name": "Coin",
+        "Description": "Its like the coin I have but..bigger, flatter?"
+    },
+    {
+        "Name": "Lawnmower",
+        "Description": "Can't use this to mow my lawn, if you know what I mean."
+    },
+    {
+        "Name": "Magnet",
+        "Description": "Pretty strong magnet."
+    },
+    {
+        "Name": "Free Bird Seed",
+        "Description": "Hope I didn't pay for this!"
+    },
+    {
+        "Name": "Bone",
+        "Description": "Did a Ghost Castle skeleton drop this?"
+    },
+    {
+        "Name": "Pep",
+        "Description": "Oh that's a good boy, what a good bo- aaand he's gone."
+    },
+    {
+        "Name": "Balloon",
+        "Description": "Definitely not a magic balloon."
+    },
+    {
+        "Name": "Horn",
+        "Description": "Woah, that's loud!"
+    },
+    {
+        "Name": "Radio",
+        "Description": "The only channel is 'Car Town' radio.  What is this?"
+    },
+    {
+        "Name": "Grocery Bags",
+        "Description": "Filled with oil, gas, wiper fluid...weird."
+    },
+    {
+        "Name": "Invitation to the Fireworks Factory",
+        "Description": "Might be a fun trip, but its for someone named 'Putt-Putt', not me."
+    },
+    {
+        "Name": "Picture of the Moon",
+        "Description": "I guess someone liked it enough."
+    },
+    {
+        "Name": "Spaceship Steering Wheel",
+        "Description": "Its like a steering wheel, but big."
+    },
+    {
+        "Name": "Rocket Cone",
+        "Description": "This thing's bigger than a house!"
+    },
+    {
+        "Name": "5 Moon Crystals",
+        "Description": "Wow these seem super valuable.  And shiny."
+    },
+    {
+        "Name": "Rocket Ship Key",
+        "Description": "Says 'If lost return to the moon'.  What?"
+    },
+    {
+        "Name": "Wrong Ship Key",
+        "Description": "Isn't this just the key to someone's house?"
+    },
+    {
+        "Name": "Rocket Fuel Voucher",
+        "Description": "Could exchange for rocket fuel, but why?"
+    },
+    {
+        "Name": "Robbie Radar's Rocket Fuel",
+        "Description": "Wow this could fuel a...a...I don't know!"
+    },
+    {
+        "Name": "Zoo Chow",
+        "Description": "A bag of food for some sort of exotic animal."
+    },
+    {
+        "Name": "Hot Cocoa",
+        "Description": "Ooh get me a blankie and I could drink this all night!"
+    },
+    {
+        "Name": "Cheese Squigglies",
+        "Description": "Could be a tasty snack!"
+    },
+    {
+        "Name": "Camera",
+        "Description": "Maybe the Goblin Businessman would like this?"
+    },
+    {
+        "Name": "Rope",
+        "Description": "Could replace the rope Beatrice broke that one time!"
+    },
+    {
+        "Name": "Huge Log",
+        "Description": "Wow its huge!  And a log!"
+    },
+    {
+        "Name": "Shovel",
+        "Description": "Some gardener's tool?  Who does that nearby?"
+    },
+    {
+        "Name": "Toolbox",
+        "Description": "Has a lot seemingly useful things in there!"
+    },
+    {
+        "Name": "Cotton Candy",
+        "Description": "I haven't had this since I was a kid!"
+    },
+    {
+        "Name": "Mr. Firebird's Timerift",
+        "Description": "Maybe I could stop Chaos Witch before sh- nah, boring."
+    },
+    {
+        "Name": "Putt-Putt's History Report",
+        "Description": "Eh, I'd give it a B+ maybe."
+    },
+    {
+        "Name": "A Nickel",
+        "Description": "Yep, its a nickel.  Wait what's a nickel?"
+    },
+    {
+        "Name": "A Rock in the Shape of a 2D Mathematical Object",
+        "Description": "Woah its shaped like a...I didn't take that math class!"
+    },
+    {
+        "Name": "Wheel's Bowl",
+        "Description": "Pretty normal bowl.  Eh."
+    },
+    {
+        "Name": "A Pile of Hay",
+        "Description": "What is this, a farm?"
+    },
+    {
+        "Name": "Toby's Oil Can",
+        "Description": "I got better lube at home, honestly."
+    },
+    {
+        "Name": "Chewy Fruity Wagon Wheel",
+        "Description": "Yummy!"
+    },
+    {
+        "Name": "Old West Newspaper",
+        "Description": "Geez this thing's OLD."
+    },
+    {
+        "Name": "Smokey the Firetruck Lunchbox",
+        "Description": "What a cute little box.  What kid dropped this?"
+    },
+    {
+        "Name": "Balloon Maker",
+        "Description": "Useful for a birthday party I guess."
+    },
+    {
+        "Name": "Blacksmith's Firewood",
+        "Description": "Could make a nice fire."
+    },
+    {
+        "Name": "Panned Keys",
+        "Description": "They're kinda muddy and gross.  Eugh."
+    },
+    {
+        "Name": "Medieval Armor",
+        "Description": "Waaay too heavy for me."
+    },
+    {
+        "Name": "Putt-Putt's Calculator",
+        "Description": "Huh.  2-8-0-8, aaand.  Hah!  I have those!"
+    },
+    {
+        "Name": "Batteries",
+        "Description": "Charged and ready to go!"
+    },
+    {
+        "Name": "Wire Cutters",
+        "Description": "Pretty strong cutters!"
+    },
+    {
+        "Name": "Rare Mineral from Rock Mines",
+        "Description": "A diamond maybe?"
+    },
+    {
+        "Name": "Merlin's Package",
+        "Description": "Says 'Return to Merlin'.  I think Beatrice knows them."
+    },
+    {
+        "Name": "Dragon Food",
+        "Description": "Well I'm not feeding them."
+    },
+    {
+        "Name": "Merlin's Abacus",
+        "Description": "Pretty fancy, much better than mine!"
+    },
+    {
+        "Name": "Gold Bar",
+        "Description": "This thing's heavy!"
+    },
+    {
+        "Name": "Invitation to the Cartown 500",
+        "Description": "Wow, a race!  But what's a car?"
+    },
+    {
+        "Name": "Hi-Powered Hi-Octane Gasoline",
+        "Description": "Eugh, smelling this makes me feel real loopy..."
+    },
+    {
+        "Name": "Super Speed Radial Racing Tires",
+        "Description": "Wow, even more bouncey than a honey block!"
+    },
+    {
+        "Name": "Safety Helmet",
+        "Description": "Always wear protection folks!"
+    },
+    {
+        "Name": "Triangular Racing Flag",
+        "Description": "What a cute little flag!"
+    },
+    {
+        "Name": "Empty Bottle",
+        "Description": "So handy!"
+    },
+    {
+        "Name": "Produce Box",
+        "Description": "Just some empty box.  Eh."
+    },
+    {
+        "Name": "Flashlight",
+        "Description": "Now I can see in the dark!  Wait there's no dark area in this game."
+    },
+    {
+        "Name": "Torval Farm Produce",
+        "Description": "Filled with fresh produce, yummy!"
+    },
+    {
+        "Name": "Hook",
+        "Description": "But where's the line and the sinker?"
+    },
+    {
+        "Name": "Milkshake",
+        "Description": "Oh is this a sample of Belle's Milkshake?  No just a normal one..."
+    },
+    {
+        "Name": "Milk",
+        "Description": "Just milk from a cow.  I mean like, a normal cow."
+    },
+    {
+        "Name": "Brick",
+        "Description": "A cop might like it."
+    },
+    {
+        "Name": "Tire Patch Kit",
+        "Description": "If I knew what a tire was I'd know what this was for."
+    },
+    {
+        "Name": "Mrs. Airbag's Hubcaps",
+        "Description": "Wow!  The Maiden Shield of Balley Seven!  Or shields."
+    },
+    {
+        "Name": "Empty Gas Can",
+        "Description": "What would you fill it with though?"
+    },
+    {
+        "Name": "Ladder",
+        "Description": "A step ladder!  Maybe a bit bigger."
+    },
+    {
+        "Name": "Ticket to the Circus",
+        "Description": "What am I a clown now?"
+    },
+    {
+        "Name": "Beautiful Flowers",
+        "Description": "So pretty!"
+    },
+    {
+        "Name": "Magnifying Glass",
+        "Description": "Now I can see very tiny things!"
+    },
+    {
+        "Name": "Cop's Bureaucratic Paperwork",
+        "Description": "No way in hell am I filling this out."
+    },
+    {
+        "Name": "Jumbo Bag of Peanuts",
+        "Description": "Oh I love peanuts!  Oh, wrong word."
+    },
+    {
+        "Name": "Swimsuit",
+        "Description": "Wouldn't fit, seems like its for someone very heavy set."
+    },
+    {
+        "Name": "Piece of a Recipe",
+        "Description": "I can't really make out what it makes..."
+    },
+    {
+        "Name": "Safety Net",
+        "Description": "Always...hang protection?  Bit doesn't work...'"
+    },
+    {
+        "Name": "Saw",
+        "Description": "Now I can...be a carpenter on the side, i guess?"
+    },
+    {
+        "Name": "Pectoro's Secret Shake",
+        "Description": "Yummy and full of important vitamins and minerals!"
+    },
+    {
+        "Name": "Big Umbrella",
+        "Description": "Could cover me and Beatrice during a rainstorm!"
+    },
+    {
+        "Name": "Honkish Translation Book",
+        "Description": "Apparently 'honk' means anything apparently."
+    },
+    {
+        "Name": "Honko the Clown's Nose",
+        "Description": "No I'm not putting it on for you."
+    },
+    {
+        "Name": "Trampoline",
+        "Description": "Now I can jump really high!  In one place!"
+    },
+    {
+        "Name": "Plans for Katie Cannonball's Act",
+        "Description": "Who would shoot themselves out of a cannon?  Crazy."
+    },
+    {
+        "Name": "Small Umbrella",
+        "Description": "What is this, an umbrella for ants?"
+    },
+    {
+        "Name": "Pool Patch",
+        "Description": "Would get rid of those pesky weird shaped holes!"
+    },
+    {
+        "Name": "Regal Clothes",
+        "Description": "So dignified!"
+    },
+    {
+        "Name": "The Satisfaction of Playing Putt-Putt",
+        "Description": "Ahhh, so satisfying!"
+    }
+]

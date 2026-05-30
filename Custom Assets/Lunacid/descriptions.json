@@ -1,0 +1,490 @@
+[
+    {
+        "Name": "Angel Feather",
+        "Description": "Its nice, but not as good as the one I hopefully have right now."
+    },
+    {
+        "Name": "Antidote",
+        "Description": "Bottle says \"Snake B' Gone\".  Glad we don't have that problem."
+    },
+    {
+        "Name": "Axe of Harming",
+        "Description": "uwu"
+    },
+    {
+        "Name": "Battle Axe",
+        "Description": "Really hefty, really short, really not my thing."
+    },
+    {
+        "Name": "Black Book",
+        "Description": "At least its not a white book.  Yikes this thing is dirty,"
+    },
+    {
+        "Name": "Blade of Jusztina",
+        "Description": "I feel a lot of love in this blade.  Strange."
+    },
+    {
+        "Name": "Blade of Ophelia",
+        "Description": "I feel a lot of love in this blade.  Strange."
+    },
+    {
+        "Name": "Blessed Wind",
+        "Description": "Isn't this just the Crissagrim?"
+    },
+    {
+        "Name": "Blood Spell",
+        "Description": "Feels like putting this one would cause blood loss.  Why would I wear that?"
+    },
+    {
+        "Name": "Blood Wine",
+        "Description": "I don't think the Cabaret owner would appreciate this."
+    },
+    {
+        "Name": "Bomb",
+        "Description": "This thing is like three times bigger than the ones the goblins use..."
+    },
+    {
+        "Name": "Brittle Arming Sword",
+        "Description": "I feel like if I swung this thing it'd snap immediately."
+    },
+    {
+        "Name": "Broken Hilt",
+        "Description": "It does seem to have a button on the side that says \"ON\" though."
+    },
+    {
+        "Name": "Broken Lance",
+        "Description": "This blunt thing needs a lot of love."
+    },
+    {
+        "Name": "Cloth Bandage",
+        "Description": "Sadly the Nurse Costume doesn't help me know how to use this."
+    },
+    {
+        "Name": "Coal",
+        "Description": "Oh someone has been naughty~"
+    },
+    {
+        "Name": "Corrupted Dagger",
+        "Description": "The blade feels imbued with something...enticing."
+    },
+    {
+        "Name": "Corrupt Key",
+        "Description": "L#FD@#reje9f2f023JFLF2-- ...uh, what was I saying?"
+    },
+    {
+        "Name": "Crossbow",
+        "Description": "Hefty, well made.  What's not to like?"
+    },
+    {
+        "Name": "Crystal Lantern",
+        "Description": "It hums with a light blue glow."
+    },
+    {
+        "Name": "Crystal Shard",
+        "Description": "Seems much more fragile than my Portable Portal."
+    },
+    {
+        "Name": "Cursed Blade",
+        "Description": "Is it a full moon right now?  No?  Then its terrible."
+    },
+    {
+        "Name": "Dark Greatsword",
+        "Description": "Did they really name this because its dark?  I don't get it."
+    },
+    {
+        "Name": "Dark Rapier",
+        "Description": "Hey, this is just painted!"
+    },
+    {
+        "Name": "Dark Spell",
+        "Description": "Just putting this on makes me feel in touch with the void.  Spooky."
+    },
+    {
+        "Name": "Dark Urn",
+        "Description": "Just how were they able to contain 'dark' in an urn?  Weird!"
+    },
+    {
+        "Name": "Deep Knowledge",
+        "Description": "I mean, someone must feel stronger now, right?"
+    },
+    {
+        "Name": "Double Crossbow",
+        "Description": "Okay this is just silly, why would this make it any better?"
+    },
+    {
+        "Name": "Dried Rat",
+        "Description": "Gross, what kind of idiot would accept this as a gift?!"
+    },
+    {
+        "Name": "Dusty Crystal Orb",
+        "Description": "Wow, looks very mysterious.  And uh, dusty, yeah."
+    },
+    {
+        "Name": "Earth Elixir",
+        "Description": "Tastes like dirt!"
+    },
+    {
+        "Name": "Earth Talisman",
+        "Description": "Seems like it requires another piece."
+    },
+    {
+        "Name": "Eggnog",
+        "Description": "This smells vile.  Do they not know how to make eggnog??"
+    },
+    {
+        "Name": "Elfen Bow",
+        "Description": "Seems like any other bow save it feels lighter than most."
+    },
+    {
+        "Name": "Elfen Longsword",
+        "Description": "Has interesting inscriptions in the hilt, but nothing more."
+    },
+    {
+        "Name": "Elfen Sword",
+        "Description": "Has interesting inscriptions in the hilt, but nothing more."
+    },
+    {
+        "Name": "Enchanted Key",
+        "Description": "Opens something, but definitely no door I'm aware of."
+    },
+    {
+        "Name": "Fairy Moss",
+        "Description": "Maybe they say its healthy to eat it, but I sure as hell am not going to."
+    },
+    {
+        "Name": "Fire Spell",
+        "Description": "Just putting this on makes me feel really warm..."
+    },
+    {
+        "Name": "Fire Sword",
+        "Description": "Oh it wasn't broken at all you just had to turn it on!"
+    },
+    {
+        "Name": "Fishing Spear",
+        "Description": "Seems like its gotten a lot of use.  Smells like the sea."
+    },
+    {
+        "Name": "Ghost Blade",
+        "Description": "Its like I'm wielding nothing at all!"
+    },
+    {
+        "Name": "Golden Khopesh",
+        "Description": "Very ornamental, reminds me of the Chaos Witch."
+    },
+    {
+        "Name": "Golden Sickle",
+        "Description": "Very ornamental, reminds me of the Chaos Witch."
+    },
+    {
+        "Name": "Halberd",
+        "Description": "Pretty well made, seems like something a guard would use."
+    },
+    {
+        "Name": "Hammer of Cruelty",
+        "Description": "Says \"If Lost Return to Garrat\".  Who the hell is that?"
+    },
+    {
+        "Name": "Health ViaI",
+        "Description": "Hey this is just someone's bath water!  Gross!"
+    },
+    {
+        "Name": "Health Vial",
+        "Description": "While I could drink this, nothing beats a Peachy Peach."
+    },
+    {
+        "Name": "Heritage Sword",
+        "Description": "Strangely, reminds me of beginnings...  Wonder why."
+    },
+    {
+        "Name": "Holy Water",
+        "Description": "I remember a priest trying to douse me with this.  That was funny."
+    },
+    {
+        "Name": "Ice Sickle",
+        "Description": "Is this made of ice?  Is that the joke?"
+    },
+    {
+        "Name": "Ice Spell",
+        "Description": "Just putting this on makes me feel really cool.  Not like that..."
+    },
+    {
+        "Name": "Iron Claw",
+        "Description": "Seems really beat up.  Wouldn't be caught using this sort of thing."
+    },
+    {
+        "Name": "Iron Club",
+        "Description": "Isn't this just a bat?"
+    },
+    {
+        "Name": "Iron Torch",
+        "Description": "The accents make the flame burn brighter.  Totally!"
+    },
+    {
+        "Name": "Jailor's Candle",
+        "Description": "Not only is it a nice candle it also shoots fire.  Two in one!"
+    },
+    {
+        "Name": "Jotunn Slayer",
+        "Description": "It feels kind of sad holding this.  What's it even for?"
+    },
+    {
+        "Name": "Key",
+        "Description": "Certainly opens a door.  Not any door I'm aware of."
+    },
+    {
+        "Name": "Light Spell",
+        "Description": "Just putting this on makes my life feel just a little brighter."
+    },
+    {
+        "Name": "Light Urn",
+        "Description": "Just how were they able to contain 'light' in an urn?  Weird!"
+    },
+    {
+        "Name": "Limbo",
+        "Description": "Seems made by some sort of twisted alchemy.  How strange!"
+    },
+    {
+        "Name": "Lucid Blade",
+        "Description": "A sword radiating power to defeat curses.  Someone must've lost it!"
+    },
+    {
+        "Name": "Lucky Bangle",
+        "Description": "Looks cute, but seems to have no purpose in this world.  What's a level?"
+    },
+    {
+        "Name": "Lyrian Greatsword",
+        "Description": "A sword made for vampires.  Really long!"
+    },
+    {
+        "Name": "Lyrian Longsword",
+        "Description": "A sword made for vampires.  Feels bad in the hand, for me anyway."
+    },
+    {
+        "Name": "Mana Vial",
+        "Description": "I could drink this to recharge my mana, but I could just hit stuff!"
+    },
+    {
+        "Name": "Marauder Black Flail",
+        "Description": "Wouldn't this suck to swing?  Imagine if the balls hit each other..."
+    },
+    {
+        "Name": "Material",
+        "Description": "Whatever this is, maybe it could be used in a witch's cauldron?"
+    },
+    {
+        "Name": "Moonlight",
+        "Description": "A blade that's lighter than it looks.  Its pretty bright!"
+    },
+    {
+        "Name": "Moonlight Vial",
+        "Description": "What is this weird substance in here?  Makes me feel...lucid."
+    },
+    {
+        "Name": "Normal Spell",
+        "Description": "Just putting this on make me feel like a normie.  Eugh."
+    },
+    {
+        "Name": "Obsidian Cursebrand",
+        "Description": "This thing has curves.  And its sharp!  Ouch!"
+    },
+    {
+        "Name": "Obsidian Poisonguard",
+        "Description": "Hefty shield with a spider on it.  Wish I could block sometimes..."
+    },
+    {
+        "Name": "Obsidian Seal",
+        "Description": "Its just a really sharp obsidian rock.  And yet..."
+    },
+    {
+        "Name": "Ocean Elixir",
+        "Description": "Tastes like the ocean!  And by that I mean its really salty!"
+    },
+    {
+        "Name": "Oil Lantern",
+        "Description": "It hums with a dim flame.  Has a lot of oil in it too!"
+    },
+    {
+        "Name": "Patchouli",
+        "Description": "You hear the giggling of a woman of the forest.  And then it vanishes."
+    },
+    {
+        "Name": "Pink Shrimp",
+        "Description": "Tastes so real!  Maybe too real.  What the heck?"
+    },
+    {
+        "Name": "Poison Claw",
+        "Description": "Claw so good they dipped it in poison!  Keep it away from me."
+    },
+    {
+        "Name": "Poison Spell",
+        "Description": "Just putting this on makes me feel sick.  Eugh."
+    },
+    {
+        "Name": "Poison Throwing Knife",
+        "Description": "Would really hurt if someone threw this at someone."
+    },
+    {
+        "Name": "Poison Urn",
+        "Description": "Just how were they able to contain 'poison' in an urn?  Oh wait."
+    },
+    {
+        "Name": "Privateer Musket",
+        "Description": "What a gun.  I'm sure it never misses ever!  Haha..."
+    },
+    {
+        "Name": "Progressive Vampiric Symbol",
+        "Description": "A symbol of some faraway kingdom.  Lyria?  Never heard of it."
+    },
+    {
+        "Name": "Rapier",
+        "Description": "Light in the hand, and very pointy."
+    },
+    {
+        "Name": "Replica Sword",
+        "Description": "Okay but what is it a replica of?  Its in rough shape."
+    },
+    {
+        "Name": "Ritual Dagger",
+        "Description": "What kind of dagger is this?  Feels so flimsy."
+    },
+    {
+        "Name": "Rusted Sword",
+        "Description": "Maybe a few swings of this thing and actual care it would look nicer."
+    },
+    {
+        "Name": "Serpent Fang",
+        "Description": "A cultist was asking for this.  I forget where.  Why can't I remember?"
+    },
+    {
+        "Name": "Shadow Blade",
+        "Description": "Wielding this th- the hell I can't see while holding it!"
+    },
+    {
+        "Name": "Shining Blade",
+        "Description": "Who needs a flashlight when you have this thing?"
+    },
+    {
+        "Name": "Silver",
+        "Description": "Wow some loose ch- the hell is this currency, I can't use this!"
+    },
+    {
+        "Name": "Silver Rapier",
+        "Description": "Blade made of silver.  Used by unsavory types I expect."
+    },
+    {
+        "Name": "Skeletal Rattle",
+        "Description": "What kind of baby would like this sort of thing?"
+    },
+    {
+        "Name": "Skeletal Axe",
+        "Description": "Seems to be made of bone.  What kind of bone?  Can't say."
+    },
+    {
+        "Name": "Skeleton Egg",
+        "Description": "Some sort of thing is inside.  I'd give it I dunno, a month?"
+    },
+    {
+        "Name": "Skull of Josiah",
+        "Description": "Poor soul, hopefully someone will take care of it."
+    },
+    {
+        "Name": "Soul Candy",
+        "Description": "Trick or treat, smell my- you know what, nevermind."
+    },
+    {
+        "Name": "Spectral Candle",
+        "Description": "Lighting it keeps bad vibes away.  Or so someone told me."
+    },
+    {
+        "Name": "Staff of Osiris",
+        "Description": "Charged with magical energy, one use.  For what I can't say."
+    },
+    {
+        "Name": "Steel Claw",
+        "Description": "Definitely used by unsavory folks I'd never want to meet."
+    },
+    {
+        "Name": "Steel Lance",
+        "Description": "Something useful for horseback combat, not on foot.  Unless..."
+    },
+    {
+        "Name": "Steel Needle",
+        "Description": "Its like a rapier, but no protection.  No no like that..."
+    },
+    {
+        "Name": "Steel Spear",
+        "Description": "Don't the guards use this?"
+    },
+    {
+        "Name": "Stone Club",
+        "Description": "A bat?  Its a stone, you didn't make it."
+    },
+    {
+        "Name": "Strange Coin",
+        "Description": "Did I just do something horrible by getting this?"
+    },
+    {
+        "Name": "Sucsarian Dagger",
+        "Description": "You'd have to be some sort of lizardfolk to use this."
+    },
+    {
+        "Name": "Sucsarian Spear",
+        "Description": "You'd have to be some sort of lizardfolk to use this."
+    },
+    {
+        "Name": "Survey Banner",
+        "Description": "So sturdy, it could hold up a crushing ceiling!"
+    },
+    {
+        "Name": "Terminus Prison Key",
+        "Description": "A key to some prison faraway.  Are there even prisons around here?"
+    },
+    {
+        "Name": "Thorn",
+        "Description": "A crow woman's blade.  She's probably attached to it."
+    },
+    {
+        "Name": "Throwing Knife",
+        "Description": "Would really hurt if someone threw this at someone."
+    },
+    {
+        "Name": "Torch",
+        "Description": "Standard issue torch.  Just like mom made back home."
+    },
+    {
+        "Name": "Twisted Staff",
+        "Description": "A magically enhanced staff emitting light.  Beatrice might like it."
+    },
+    {
+        "Name": "Vampire Hunter Sword",
+        "Description": "For a sword that kills vampires its certainly decorative."
+    },
+    {
+        "Name": "VHS Tape",
+        "Description": "Oh no did that tape get leaked?  Oh wait this isn't it, that's good."
+    },
+    {
+        "Name": "Wand of Power",
+        "Description": "Is this a wand or just a mess?"
+    },
+    {
+        "Name": "Water Talisman",
+        "Description": "Seems like it requires another piece."
+    },
+    {
+        "Name": "White VHS Tape",
+        "Description": "Oh no did that tape get leaked?  Oh wait this isn't it, that's good."
+    },
+    {
+        "Name": "Wisp Heart",
+        "Description": "Seems like some life force is inside of it."
+    },
+    {
+        "Name": "Wolfram Greatsword",
+        "Description": "Whoever could actually use this is a Wolfram Alpha in my book."
+    },
+    {
+        "Name": "Wooden Shield",
+        "Description": "Pretty plain shield.  I wish I could block sometimes..."
+    }
+]
