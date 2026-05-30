@@ -16,3 +16,5 @@ Name and description format is that it follows that game's `Alias` system.  For 
 So in this example one could make a blurb for the `Material` alias for every Lunacid item that was a material (I don't do this since its more fun to work with every particular item).
 
 There's a few examples already in this repository for the sort of style I'm looking for.  Though ultimately I can decide whether or not to merge the request.
+
+If you want to test the things you've made before submitting, the design is that you can copy-paste the folder into the Flipwitch plugin folder (where the Custom Assets folder resides).  If there's some sort of issue, can be resolved to make the system better.
